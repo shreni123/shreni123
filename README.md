@@ -37,4 +37,5 @@ Seeking a challenging and rewarding opportunity with a reputed organization that
   * Playing Basketball
   * Reading Books
   * Playing Table Tennis
+  * Writing
 
