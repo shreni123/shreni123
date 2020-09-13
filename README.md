@@ -14,7 +14,7 @@ Seeking a challenging and rewarding opportunity with a reputed organization that
  ```
 
 
-**SKILLS
+**SKILLS**
 
  * Data Analytics
  * Machine Learning
@@ -23,7 +23,7 @@ Seeking a challenging and rewarding opportunity with a reputed organization that
  * Web Development
  
  
- **HOBBIES
+ **HOBBIES**
   
   * Playing Basketball
   * Reading Books
