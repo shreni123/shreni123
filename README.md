@@ -3,7 +3,7 @@
 <!--
 **shreni123/shreni123** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile
 -->
-## BASIC INFORMATION :smile:
+#### BASIC INFORMATION :smile:
 
 I’m currently persuing my btech degree in !electronics and computer engineering! at Vellore Institute of technology
 
