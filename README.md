@@ -19,7 +19,7 @@ Seeking a challenging and rewarding opportunity with a reputed organization that
  ```
 
 
-**SKILLS**
+**SKILLS :+1:**
 
  * Data Analytics
  * Machine Learning
