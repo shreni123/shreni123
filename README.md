@@ -2,7 +2,7 @@
 
 <!--
 **shreni123/shreni123** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile
-
+-->
 # ABOUT ME :smile:
 -I’m currently persuing btech degree in electronics and computer engineering at Vellore Institute of technology
 -I’m currently working on **predicting the future corona virus cases using data analytics and machine learning algorithms project.**
