@@ -9,6 +9,7 @@
 -How to reach me: **LinkedIn** : www.linkedin.com/in/shreni-agrawal-0b2891186
 
  
+ 
  **ABOUT ME**
  ``` 
 Seeking a challenging and rewarding opportunity with a reputed organization that recognizes my potential, effectively utilizes and nurtures my analytical and technical skills in  the IT industry and provides me a chance to grow. 
